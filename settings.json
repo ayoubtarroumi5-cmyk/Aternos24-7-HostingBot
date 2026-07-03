@@ -6,7 +6,7 @@
     "type": "offline"
   },
   "server": {
-    "ip": "Starsmplifesteal.aternos.me:59161",
+    "ip": "Starsmplifesteal.aternos.me",
     "port": 59161,
     "version": "",
     "try-creative": false
