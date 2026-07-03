@@ -6,8 +6,8 @@
     "type": "offline"
   },
   "server": {
-    "ip": "survivalworld-dRNF.aternos.me",
-    "port": 44019,
+    "ip": "Starsmplifesteal.aternos.me:59161",
+    "port": 59161,
     "version": "",
     "try-creative": false
   },
